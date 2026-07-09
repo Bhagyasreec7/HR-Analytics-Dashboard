@@ -1,4 +1,4 @@
-# HR Analytics Interative Dashboard creation using MS Excel and Power BI
+# HR Analytics Interative Dashboard creation using (MS Excel and Power BI)
 ## Project Objectives
 Analyze employee attrition across different departments.
 Monitor workforce demographics and employee distribution.
