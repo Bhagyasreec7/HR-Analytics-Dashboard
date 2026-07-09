@@ -25,4 +25,5 @@ Provide HR managers with data-driven insights for decision-making.
 - Built an interactive dashboard with visualizations to generate actionable HR insights and support data-driven decision-making.
 - 
 ## HR Dashboard
-<img width="1572" height="867" alt="Dashboard img" src="https://github.com/user-attachments/assets/01452dac-76de-4629-b185-a2283e9b7df2" />
+<img width="1572" height="867" alt="Dashboard img" src="https://github.com/user-attachments/assets/65f51890-de03-4f02-b7a2-dbf5da56e50b" />
+
