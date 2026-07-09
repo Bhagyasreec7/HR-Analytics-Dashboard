@@ -27,3 +27,13 @@ Provide HR managers with data-driven insights for decision-making.
 ## HR Dashboard
 <img width="1572" height="867" alt="Dashboard img" src="https://github.com/user-attachments/assets/65f51890-de03-4f02-b7a2-dbf5da56e50b" />
 
+## insights
+- The organization has an attrition rate of approximately 16.3%.
+- Employees in lower salary slabs show higher attrition.
+- The Operations and Administration departments have the largest workforce.
+- Employees aged 26–35 years make up the largest employee segment.
+- Attrition varies across job roles and satisfaction levels.
+- Workforce experience averages around 7 years, indicating a mix of early and mid-career employees.
+
+## Conclusion
+This HR Analytics Dashboard transforms raw employee data into meaningful business insights using Power BI. It highlights workforce trends, employee attrition patterns, and demographic analysis, enabling HR teams to make informed, data-driven decisions for improving employee retention and organizational performance.
