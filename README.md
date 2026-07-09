@@ -23,6 +23,6 @@ Provide HR managers with data-driven insights for decision-making.
 - Cleaned and transformed the data using Power Query by removing duplicates, handling missing values, and correcting data types.
 - Created DAX measures and KPIs to analyze employee attrition and workforce metrics.
 - Built an interactive dashboard with visualizations to generate actionable HR insights and support data-driven decision-making.
-
+- 
 ## HR Dashboard
 <img width="1572" height="867" alt="Dashboard img" src="https://github.com/user-attachments/assets/01452dac-76de-4629-b185-a2283e9b7df2" />
